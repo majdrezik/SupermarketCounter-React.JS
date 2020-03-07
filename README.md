@@ -2,4 +2,12 @@
 
 Final App:
 
-![](images/Capture1.PNG)
+![](pictures/Capture1.PNG)
+
+Increasing the counters:
+
+![](pictures/Capture2.PNG)
+
+Deleting some items:
+
+![](pictures/Capture3.PNG)
