@@ -1,13 +1,15 @@
 
 
-Final App:
+**Final App:**
 
 ![](pictures/Capture1.PNG)
+------------------------------------------------------------------------------------------------------------------------------------------
 
-Increasing the counters:
+**Increasing the counters:**
 
 ![](pictures/Capture2.PNG)
+------------------------------------------------------------------------------------------------------------------------------------------
 
-Deleting some items:
+**Deleting some items:
 
 ![](pictures/Capture31.PNG)
