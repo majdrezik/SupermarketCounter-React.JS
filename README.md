@@ -10,4 +10,4 @@ Increasing the counters:
 
 Deleting some items:
 
-![](pictures/Capture3.PNG)
+![](pictures/Capture31.PNG)
